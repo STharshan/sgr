@@ -6,21 +6,25 @@ import "aos/dist/aos.css";
 
 const services = [
   {
-    title: "Alloy Wheel Repair",
-    desc: `Remove scuffs, scratches, and damage for wheels that look brand new.`,
+    title: "Scratch Repair",
+    desc: `Expert colour-matched repairs for scratches big or small.`,
     image: "/carpaint.avif",
     path: "/services/mechanical",
   },
   {
-    title: "Dent Removal",
-    desc: `Seamless dent repair to restore panels back to factory condition.
+    title: "ReSpray",
+    desc: `
+Professional resprays with flawless finishes and a glossy new shine.
+
 ​`,
     image: "/gray.avif",
     path: "/services/service",
   },
   {
-    title: "Bumper Repair",
-    desc: `Repair cracked or scuffed bumpers to a smooth, like-new finish.`,
+    title: "Paint Correction",
+    desc: `
+Polish out swirls and imperfections for a deep mirror gloss.
+`,
     image: "/carmechanic.avif",
     path: "/services/mot",
   },
